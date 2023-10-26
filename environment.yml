@@ -2,10 +2,9 @@ name: sru-environment
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
+  - python=3.10.12
   - numpy
   - pandas
   - requests
   - bs4
-  - unicodedata
   - lxml
